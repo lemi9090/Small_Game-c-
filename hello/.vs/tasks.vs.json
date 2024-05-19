@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-gogo_advan",
+      "appliesTo": "gogo_advan.c",
+      "type": "launch"
+    }
+  ]
+}

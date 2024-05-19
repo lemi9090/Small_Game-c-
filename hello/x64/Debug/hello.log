@@ -1,0 +1,15 @@
+﻿  gogo_advan.c
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(55,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(56,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(93,52): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(94,41): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(103,52): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(104,41): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(218,31): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(218,31): warning C4024: 'run_away': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(207,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(328,49): warning C4020: 'plus_pok': 실제 매개 변수가 너무 많습니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(365,5): warning C4013: 'play_Game'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(274,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\knock\hello\hello\gogo_advan.c(322,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hello.vcxproj -> C:\Users\user\Desktop\knock\hello\x64\Debug\hello.exe
