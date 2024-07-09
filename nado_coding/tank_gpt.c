@@ -13,7 +13,7 @@ int gpt_tank_main() {
     printf("상대방 탱크까지의 거리는 %d 미터입니다.\n", target);
 
     while (1) {
-        printf("발사 각도(도)와 파워(1~100)를 입력하세요 (예: 45 50): ");
+        printf("발사 각도와 파워(1~100)를 입력하세요 (예: 45 50): ");
         scanf("%lf %lf", &angle, &power);
 
         // 각도를 라디안으로 변환
